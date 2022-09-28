@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Wow Generator",
+      "live": "https://wow-generator.netlify.app",
+      "git": "https://github.com/drew-anello/WOW-generator",
+      "image": "https://i.imgur.com/eiOnVk5.jpg"
+    },
+    {
+      "name": "NYC Pizza",
+      "live": "https://nyc-pizza.herokuapp.com",
+      "git": "https://github.com/drew-anello/NYC-pizza",
+      "image": "https://i.imgur.com/rQynuFT.jpg"
+    }
+  ]
